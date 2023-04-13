@@ -1,0 +1,13 @@
+/* Works.css */
+
+.works {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  .works img {
+    max-width: 100%;
+    height: auto;
+  }
+  

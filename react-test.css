@@ -1,0 +1,37 @@
+/* Home.css */
+body {
+    background-color: burlywood;
+}
+
+.home {
+    background-color: #6ee;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  .home h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+nav {
+    display: inline;
+}
+
+li {
+    list-style: none;
+}
+
+li>a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: rgba(230, 85, 20, 0.5);
+  }
+
+li>a:hover {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: rgba(12, 100, 5, 1);
+  }
